@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS MongoDB Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongmanhunity/NodeJS.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MongoDB",
+    "Express"
+  ],
+  "author": {
+    "name": "Hong Manh",
+    "url": "https://github.com/hongmanhunity"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongmanhunity/NodeJS/issues"
+  },
+  "homepage": "https://github.com/hongmanhunity/NodeJS#readme"
+}
